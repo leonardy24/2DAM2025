@@ -1,0 +1,142 @@
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\proyectoBlizzarp.exe.config
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\proyectoBlizzarp.exe
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\proyectoBlizzarp.pdb
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.csproj.AssemblyReference.cache
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.Form1.resources
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.Properties.Resources.resources
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.csproj.GenerateResource.cache
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.exe
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.pdb
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.Form2.resources
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Google.Protobuf.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\MySql.Data.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Buffers.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.IO.Pipelines.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Memory.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\ZstdSharp.dll
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Google.Protobuf.pdb
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Google.Protobuf.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\MySql.Data.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Buffers.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Memory.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyecto.DFE198C2.Up2Date
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.Form3.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\proyectoBlizzarp.exe.config
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\proyectoBlizzarp.exe
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\proyectoBlizzarp.pdb
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Google.Protobuf.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\MySql.Data.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Buffers.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.IO.Pipelines.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Memory.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\ZstdSharp.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Google.Protobuf.pdb
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Google.Protobuf.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\MySql.Data.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Buffers.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Memory.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.csproj.AssemblyReference.cache
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.Form1.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.Form2.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.Form3.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.Properties.Resources.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.csproj.GenerateResource.cache
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyecto.DFE198C2.Up2Date
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.exe
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.pdb
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\Entrega conexion BBDD\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.FormAdmi.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\proyectoBlizzarp.exe.config
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\proyectoBlizzarp.exe
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\proyectoBlizzarp.pdb
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Google.Protobuf.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\MySql.Data.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Buffers.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.IO.Pipelines.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Memory.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\ZstdSharp.dll
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Google.Protobuf.pdb
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Google.Protobuf.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\MySql.Data.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Buffers.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Memory.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.csproj.AssemblyReference.cache
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.Form1.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.Form2.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.Form3.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.FormAdmi.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.Properties.Resources.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.csproj.GenerateResource.cache
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyecto.DFE198C2.Up2Date
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.exe
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.pdb
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.GestionCatalogo.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.TodosLosJuego.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.FormDescripcionCompra.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.FormCompra.resources
+C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.FormMisJuegos.resources
