@@ -19,9 +19,11 @@ namespace proyectoBlizzarp
         private double Precio {  get; set; }
         private string URL { get; set; }
 
-        private MySqlConnection conn { get; set; }
+        //private MySqlConnection conexionEmpleados { get; set; }
+        private string usuario;
+       
 
-        public Juego(int id, String titulo, String descripcion, double precio, string url)
+        public Juego(int id, String titulo, String descripcion, double precio, string url,string usuario)
         {
 
             this.Id = id;
@@ -29,8 +31,8 @@ namespace proyectoBlizzarp
             this.Descripcion = descripcion;
             this.Precio = precio;
             this.URL = url;
-            this.conn = conn;
-
+           // this.conexionEmpleados = conexionEmpleados;
+            this.usuario = usuario;
 
             this.Size = new Size(195, 450); // Tamaño del panel
             this.BackColor = Color.Transparent; // Color de fondo
@@ -122,7 +124,7 @@ namespace proyectoBlizzarp
 
             
 
-            FormDescripcionCompra compra = new FormDescripcionCompra(this.Id,this.Titulo, this.Descripcion,this.Precio,this.URL);
+            FormDescripcionCompra compra = new FormDescripcionCompra(this.Id,this.Titulo, this.Descripcion,this.Precio,this.URL,this.usuario);
             compra.Show();
         }
 

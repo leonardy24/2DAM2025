@@ -14,11 +14,14 @@ namespace proyectoBlizzarp
     public partial class TodosLosJuego : Form
     {
 
-        MySqlConnection conn;
-        public TodosLosJuego(MySqlConnection conn)
+       // MySqlConnection conexionEmpleados;
+
+        string usuario;
+        public TodosLosJuego(MySqlConnection conn, string usuario )
         {
             InitializeComponent();
-            this.conn = conn;
+           // this.conexionEmpleados = conexionEmpleados;
+            this.usuario = usuario;
             this.flowLayoutPanelTodosLosJuegos.AutoScroll = true;
 
             try
@@ -31,7 +34,7 @@ namespace proyectoBlizzarp
                 while (reader.Read())
                 {
 
-                    Juego juego = new Juego(Convert.ToInt32(reader["id_Juegos"].ToString()), reader["titulo"].ToString(), reader["descripcion"].ToString(), reader.GetDouble(reader.GetOrdinal("precio")), reader["url_img"].ToString());
+                    Juego juego = new Juego(Convert.ToInt32(reader["id_Juegos"].ToString()), reader["titulo"].ToString(), reader["descripcion"].ToString(), reader.GetDouble(reader.GetOrdinal("precio")), reader["url_img"].ToString(),usuario);
 
                     flowLayoutPanelTodosLosJuegos.Controls.Add(juego);
 

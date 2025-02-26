@@ -22,11 +22,13 @@ namespace proyectoBlizzarp
         private double Precio { get; set; }
         private string URL { get; set; }
 
-        private MySqlConnection conn { get; set; }
+        private MySqlConnection conexionEmpleados { get; set; }
 
         private Timer timer;
 
-        public FormCompra(int id, String titulo, String descripcion, double precio, string url)
+        private string usuario { get; set; }
+
+        public FormCompra(int id, String titulo, String descripcion, double precio, string url,string usuario)
         {
             InitializeComponent();
             this.Id = id;
@@ -34,11 +36,13 @@ namespace proyectoBlizzarp
             this.Descripcion = descripcion;
             this.Precio = precio;
             this.URL = url;
+            this.usuario = usuario;
+           // this.conexionEmpleados = conexionEmpleados;
 
-            conn = new MySqlConnection("Server=localhost;Database=control_catalogo;User ID=root;Password=31416;Pooling=true;");
+           this.conexionEmpleados = new MySqlConnection("Server=localhost;Database=control_empleados;User ID=root;Password=31416;Pooling=true;");
 
 
-            Juego juegos = new Juego(this.Id,this.Titulo,this.Descripcion,this.Precio,this.URL);
+            Juego juegos = new Juego(this.Id, this.Titulo, this.Descripcion, this.Precio, this.URL, this.usuario);
 
             flowLayoutPanelJuego.Controls.Add(juegos);
             flowLayoutPanelJuego.Margin = new Padding(0); // Sin margen
@@ -51,7 +55,7 @@ namespace proyectoBlizzarp
 
             timer = new Timer { Interval = 1000 }; // 100ms
             timer.Tick += Timer_Tick;
-
+            
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -76,17 +80,17 @@ namespace proyectoBlizzarp
 
             try
             {
-                conn.Open();
+                conexionEmpleados.Open();
 
-                string queryAgg = "INSERT INTO misjuegos (Titulo,descripcion,precio,url_img,id_Juego) VALUES (@titulo,@descripcion,@precio,@url_img,@id_Juego)";
-                MySqlCommand mysComando = new MySqlCommand(queryAgg, conn);
+                string queryAgg = "INSERT INTO misjuegos (Titulo,descripcion,precio,url_img,id_Juego,usuario) VALUES (@titulo,@descripcion,@precio,@url_img,@id_Juego,@usuario)";
+                MySqlCommand mysComando = new MySqlCommand(queryAgg, conexionEmpleados);
 
                 mysComando.Parameters.AddWithValue("@titulo", Titulo);
                 mysComando.Parameters.AddWithValue("@descripcion", Descripcion);
                 mysComando.Parameters.AddWithValue("@precio", Precio);
                 mysComando.Parameters.AddWithValue("@url_img", URL);
                 mysComando.Parameters.AddWithValue("@id_Juego", Id);
-
+                mysComando.Parameters.AddWithValue("@usuario", usuario);
 
                 mysComando.ExecuteNonQuery();
 

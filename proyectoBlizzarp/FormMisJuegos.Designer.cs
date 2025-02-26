@@ -38,29 +38,37 @@
             this.labelMisJuegos.BackColor = System.Drawing.Color.Transparent;
             this.labelMisJuegos.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelMisJuegos.ForeColor = System.Drawing.Color.White;
-            this.labelMisJuegos.Location = new System.Drawing.Point(31, 32);
+            this.labelMisJuegos.Location = new System.Drawing.Point(23, 26);
+            this.labelMisJuegos.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelMisJuegos.Name = "labelMisJuegos";
-            this.labelMisJuegos.Size = new System.Drawing.Size(199, 39);
+            this.labelMisJuegos.Size = new System.Drawing.Size(161, 31);
             this.labelMisJuegos.TabIndex = 0;
             this.labelMisJuegos.Text = "Mis Juegos";
             // 
             // flowLayoutPanelMisJuegos
             // 
-            this.flowLayoutPanelMisJuegos.Location = new System.Drawing.Point(5, 91);
+            this.flowLayoutPanelMisJuegos.BackColor = System.Drawing.Color.Transparent;
+            this.flowLayoutPanelMisJuegos.Location = new System.Drawing.Point(4, 74);
+            this.flowLayoutPanelMisJuegos.Margin = new System.Windows.Forms.Padding(2);
             this.flowLayoutPanelMisJuegos.Name = "flowLayoutPanelMisJuegos";
-            this.flowLayoutPanelMisJuegos.Size = new System.Drawing.Size(933, 424);
+            this.flowLayoutPanelMisJuegos.Size = new System.Drawing.Size(774, 447);
             this.flowLayoutPanelMisJuegos.TabIndex = 1;
+            this.flowLayoutPanelMisJuegos.Paint += new System.Windows.Forms.PaintEventHandler(this.flowLayoutPanelMisJuegos_Paint);
             // 
             // FormMisJuegos
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::proyectoBlizzarp.Properties.Resources.COPIN__1_;
-            this.ClientSize = new System.Drawing.Size(950, 527);
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(801, 570);
             this.Controls.Add(this.flowLayoutPanelMisJuegos);
             this.Controls.Add(this.labelMisJuegos);
+            this.DoubleBuffered = true;
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FormMisJuegos";
             this.Text = "Form4";
+            this.Load += new System.EventHandler(this.FormMisJuegos_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

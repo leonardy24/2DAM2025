@@ -17,11 +17,15 @@ namespace proyectoBlizzarp
     {
         MySqlConnection conn;
         List<Juego> panelListJuegos = new List<Juego>();
+        String usuario;
 
         public Form1(String usuario)
         {
             InitializeComponent();
             TextUsuario.Text = usuario;
+            this.usuario = usuario;
+            
+
 
             //AL INICIAR HAGO LA CONEXION
             string connString = "Server=localhost;Database=control_catalogo;User ID=root;Password=31416;Pooling=true;";
@@ -37,7 +41,7 @@ namespace proyectoBlizzarp
                 while (reader.Read())
                 {
 
-                  Juego juego = new Juego(Convert.ToInt32(reader["Id_JuegoDestacados"].ToString()), reader["titulo"].ToString(), reader["descripcion"].ToString(),Convert.ToDouble(reader["precio"].ToString()) , reader["url_img"].ToString());
+                  Juego juego = new Juego(Convert.ToInt32(reader["Id_JuegoDestacados"].ToString()), reader["titulo"].ToString(), reader["descripcion"].ToString(),Convert.ToDouble(reader["precio"].ToString()) , reader["url_img"].ToString(), usuario);
 
                     flowLayoutPanelCatalago.Controls.Add(juego);
 
@@ -115,7 +119,7 @@ namespace proyectoBlizzarp
         private void button4_Click(object sender, EventArgs e)
         {
 
-            TodosLosJuego tdJuegos = new TodosLosJuego(conn);
+            TodosLosJuego tdJuegos = new TodosLosJuego(conn, usuario);
             tdJuegos.Show();
 
         }
@@ -132,7 +136,11 @@ namespace proyectoBlizzarp
 
         private void button3_Click(object sender, EventArgs e)
         {
-            FormMisJuegos misJuegos = new FormMisJuegos();
+
+            //DEBO PASAR EL USUARIO
+            //PARA LUEGO HACER EL SELECT
+
+            FormMisJuegos misJuegos = new FormMisJuegos(usuario);
 
             misJuegos.Show();
 

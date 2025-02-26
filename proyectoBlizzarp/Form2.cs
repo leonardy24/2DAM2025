@@ -16,7 +16,7 @@ namespace proyectoBlizzarp
     public partial class Form2 : Form
     {
 
-        MySqlConnection conn;
+        MySqlConnection conexionEmpleado;
 
 
         public Form2()
@@ -26,10 +26,10 @@ namespace proyectoBlizzarp
             //AL INICIAR HAGO LA CONEXION
             string connString = "Server=localhost;Database=control_empleados;User ID=root;Password=31416;Pooling=true;";
 
-            conn = new MySqlConnection(connString);
+            conexionEmpleado = new MySqlConnection(connString);
             try
             {
-                conn.Open();
+                conexionEmpleado.Open();
             }
             catch (MySqlException ex)
             {
@@ -67,7 +67,7 @@ namespace proyectoBlizzarp
                     return;
                 }
 
-                MySqlCommand cmd = new MySqlCommand("SELECT * from empleados", conn);
+                MySqlCommand cmd = new MySqlCommand("SELECT * from empleados", conexionEmpleado);
                 MySqlDataReader reader = cmd.ExecuteReader();
 
                 while (reader.Read())
@@ -87,13 +87,16 @@ namespace proyectoBlizzarp
                         inicioUsuario.Show();
 
                         reader.Close();
-                        
+
+                        conexionEmpleado.Close();
+
+
                         return;
                     }else if (usuario.Equals(usuBBDD) && contra.Equals(contraBBDD) && isAdmin==1)
                     {
                         //FORMULARIO ADMIN
 
-                        FormAdmi ventaAdministrador = new FormAdmi(conn);
+                        FormAdmi ventaAdministrador = new FormAdmi(conexionEmpleado);
                         ventaAdministrador.Show();
                         reader.Close();
 
@@ -137,7 +140,7 @@ namespace proyectoBlizzarp
         {
             //AL HACER CLICK LLAMO AL OTRO FORMULARIO
 
-            Form3 crearUsu = new Form3(conn);
+            Form3 crearUsu = new Form3(conexionEmpleado);
             crearUsu.Show();
 
         }

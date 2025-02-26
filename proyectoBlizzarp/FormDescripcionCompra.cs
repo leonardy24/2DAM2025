@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MySql.Data.MySqlClient;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,9 +20,10 @@ namespace proyectoBlizzarp
         private double Precio { get; set; }
         private string URL { get; set; }
 
+      //  private MySqlConnection conexionEmpleados {  get; set; }
+        private string usuario;
 
-
-        public FormDescripcionCompra(int id, String titulo, String descripcion, double precio, string url)
+        public FormDescripcionCompra(int id, String titulo, String descripcion, double precio, string url,string usuario)
         {
 
             InitializeComponent();
@@ -30,8 +32,8 @@ namespace proyectoBlizzarp
             this.Descripcion = descripcion;
             this.Precio = precio;
             this.URL = url;
-
-
+            //this.conexionEmpleados = conexionEmpleados; 
+            this.usuario = usuario;
 
 
            
@@ -59,7 +61,7 @@ namespace proyectoBlizzarp
         private void buttonComprar_Click(object sender, EventArgs e)
         {
 
-            FormCompra compra = new FormCompra(this.Id, this.Titulo, this.Descripcion, this.Precio, this.URL);
+            FormCompra compra = new FormCompra(this.Id, this.Titulo, this.Descripcion, this.Precio, this.URL,this.usuario);
 
             compra.Show();
 
