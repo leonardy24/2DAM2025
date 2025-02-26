@@ -1,4 +1,6 @@
-﻿using System;
+﻿using MySql.Data.MySqlClient;
+using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,6 +10,7 @@ using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace proyectoBlizzarp
 {
@@ -19,6 +22,8 @@ namespace proyectoBlizzarp
         private double Precio { get; set; }
         private string URL { get; set; }
 
+        private MySqlConnection conn { get; set; }
+
         private Timer timer;
 
         public FormCompra(int id, String titulo, String descripcion, double precio, string url)
@@ -29,6 +34,9 @@ namespace proyectoBlizzarp
             this.Descripcion = descripcion;
             this.Precio = precio;
             this.URL = url;
+
+            conn = new MySqlConnection("Server=localhost;Database=control_catalogo;User ID=root;Password=31416;Pooling=true;");
+
 
             Juego juegos = new Juego(this.Id,this.Titulo,this.Descripcion,this.Precio,this.URL);
 
@@ -58,9 +66,43 @@ namespace proyectoBlizzarp
 
         private void buttonPagar_Click(object sender, EventArgs e)
         {
-            //COLOCO A FUNCIONAR EL PROGRES
-            progressBar.Value = 0; // Reiniciar el progreso 
-            timer.Start();
+            if (string.IsNullOrWhiteSpace(textBoxNombre.Text) && string.IsNullOrWhiteSpace(textBoxNumTarjeta.Text) && string.IsNullOrWhiteSpace(textBoxNumTarjeta.Text) && string.IsNullOrWhiteSpace(textBoxCVV.Text))
+            {
+
+                 MessageBox.Show("los campos no pueden estar vacios");
+                return;
+            }
+
+
+            try
+            {
+                conn.Open();
+
+                string queryAgg = "INSERT INTO misjuegos (Titulo,descripcion,precio,url_img,id_Juego) VALUES (@titulo,@descripcion,@precio,@url_img,@id_Juego)";
+                MySqlCommand mysComando = new MySqlCommand(queryAgg, conn);
+
+                mysComando.Parameters.AddWithValue("@titulo", Titulo);
+                mysComando.Parameters.AddWithValue("@descripcion", Descripcion);
+                mysComando.Parameters.AddWithValue("@precio", Precio);
+                mysComando.Parameters.AddWithValue("@url_img", URL);
+                mysComando.Parameters.AddWithValue("@id_Juego", Id);
+
+
+                mysComando.ExecuteNonQuery();
+
+                //COLOCO A FUNCIONAR EL PROGRES
+                progressBar.Value = 0; // Reiniciar el progreso 
+                timer.Start();
+
+            }
+            catch (MySqlException ex)
+            {
+                MessageBox.Show(""+ex);
+            }
+
+
+
+            
 
         }
 
@@ -69,13 +111,18 @@ namespace proyectoBlizzarp
             if (progressBar.Value < progressBar.Maximum)
             {
                 this.labelCompra.Text = "Conectando con su banco";
-                progressBar.Value += 5; // Incrementa el progreso
+                progressBar.Value += 10; // Incrementa el progreso
             }
             else
             {
                 timer.Stop();
-                MessageBox.Show("Proceso completado");
+                this.labelCompra.Text = "Pago completado";
             }
+        }
+
+        private void progressBar_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

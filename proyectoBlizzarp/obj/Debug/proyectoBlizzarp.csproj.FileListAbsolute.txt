@@ -140,3 +140,9 @@ C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizza
 C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.FormDescripcionCompra.resources
 C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.FormCompra.resources
 C:\Users\GAMING\OneDrive\Documentos\2-DAM\Desarrollo de Interface\proyectoBlizzarp\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.FormMisJuegos.resources
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.FormAdmi.resources
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.FormCompra.resources
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.FormDescripcionCompra.resources
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.FormMisJuegos.resources
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.GestionCatalogo.resources
+C:\Users\GAMING\source\repos\proyectoBlizzarp\proyectoBlizzarp\obj\Debug\proyectoBlizzarp.TodosLosJuego.resources

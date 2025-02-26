@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 using static Mysqlx.Notice.Warning.Types;
+using MySql.Data.MySqlClient;
 
 namespace proyectoBlizzarp
 {
@@ -18,9 +19,9 @@ namespace proyectoBlizzarp
         private double Precio {  get; set; }
         private string URL { get; set; }
 
-       
+        private MySqlConnection conn { get; set; }
 
-        public Juego(int id, String titulo, String descripcion, double precio, string url )
+        public Juego(int id, String titulo, String descripcion, double precio, string url)
         {
 
             this.Id = id;
@@ -28,7 +29,7 @@ namespace proyectoBlizzarp
             this.Descripcion = descripcion;
             this.Precio = precio;
             this.URL = url;
-            
+            this.conn = conn;
 
 
             this.Size = new Size(195, 450); // Tamaño del panel

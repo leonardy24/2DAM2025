@@ -1,77 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\",
+  "WorkspaceRootPath": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|c:\\users\\gaming\\onedrive\\documentos\\2-dam\\desarrollo de interface\\proyectoblizzarp\\proyectoblizzarp\\proyectoblizzarp\\formcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|c:\\users\\gaming\\source\\repos\\proyectoblizzarp\\proyectoblizzarp\\formcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\formcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoblizzarp\\formcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|c:\\users\\gaming\\source\\repos\\proyectoblizzarp\\proyectoblizzarp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|c:\\users\\gaming\\source\\repos\\proyectoblizzarp\\proyectoblizzarp\\formcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\formcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|c:\\users\\gaming\\onedrive\\documentos\\2-dam\\desarrollo de interface\\proyectoblizzarp\\proyectoblizzarp\\proyectoblizzarp\\formcompra.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\formcompra.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|c:\\users\\gaming\\onedrive\\documentos\\2-dam\\desarrollo de interface\\proyectoblizzarp\\proyectoblizzarp\\proyectoblizzarp\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoblizzarp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|c:\\users\\gaming\\onedrive\\documentos\\2-dam\\desarrollo de interface\\proyectoblizzarp\\proyectoblizzarp\\proyectoblizzarp\\formmisjuegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\formmisjuegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoblizzarp\\todoslosjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\todoslosjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\todoslosjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoblizzarp\\todoslosjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\formmisjuegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\formmisjuegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\todoslosjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\todoslosjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoblizzarp\\formdescripcioncompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\formdescripcioncompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\formdescripcioncompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|c:\\users\\gaming\\onedrive\\documentos\\2-dam\\desarrollo de interface\\proyectoblizzarp\\proyectoblizzarp\\proyectoblizzarp\\formdescripcioncompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\formdescripcioncompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\formdescripcioncompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|c:\\users\\gaming\\onedrive\\documentos\\2-dam\\desarrollo de interface\\proyectoblizzarp\\proyectoblizzarp\\proyectoblizzarp\\gestioncatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\gestioncatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\gestioncatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoblizzarp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoblizzarp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoblizzarp\\formadmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\formadmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\formadmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoblizzarp\\gestioncatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\gestioncatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\gestioncatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoblizzarp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoblizzarp\\formadmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\formadmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\formadmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoblizzarp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoblizzarp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0394163-957A-4D24-A245-1DD2CF12F0DC}|proyectoBlizzarp\\proyectoBlizzarp.csproj|solutionrelative:proyectoblizzarp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -81,20 +81,32 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 234,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\Form1.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\Form1.cs",
-              "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "proyectoBlizzarp\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T12:20:04.367Z",
               "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCompra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\FormCompra.cs",
+              "RelativeDocumentMoniker": "proyectoBlizzarp\\FormCompra.cs",
+              "ToolTip": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\FormCompra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyectoBlizzarp\\FormCompra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:44:05.482Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
@@ -111,38 +123,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormCompra.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormCompra.cs",
-              "RelativeDocumentMoniker": "proyectoBlizzarp\\FormCompra.cs",
-              "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormCompra.cs [Dise\u00F1o]",
-              "RelativeToolTip": "proyectoBlizzarp\\FormCompra.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T12:56:24.948Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormCompra.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormCompra.Designer.cs",
-              "RelativeDocumentMoniker": "proyectoBlizzarp\\FormCompra.Designer.cs",
-              "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormCompra.Designer.cs",
-              "RelativeToolTip": "proyectoBlizzarp\\FormCompra.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T08:27:46.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FormCompra.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormCompra.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\FormCompra.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\FormCompra.cs",
-              "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormCompra.cs",
+              "ToolTip": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\FormCompra.cs",
               "RelativeToolTip": "proyectoBlizzarp\\FormCompra.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwEYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwFoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T07:43:16.814Z",
               "EditorCaption": ""
@@ -151,22 +138,22 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Juego.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\Juego.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\Juego.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\Juego.cs",
-              "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\Juego.cs",
+              "ToolTip": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\Juego.cs",
               "RelativeToolTip": "proyectoBlizzarp\\Juego.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswCEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwBcAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T08:29:51.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FormMisJuegos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormMisJuegos.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\FormMisJuegos.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\FormMisJuegos.cs",
-              "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormMisJuegos.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\FormMisJuegos.cs [Dise\u00F1o]",
               "RelativeToolTip": "proyectoBlizzarp\\FormMisJuegos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T08:17:26.822Z",
@@ -174,13 +161,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "TodosLosJuego.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\TodosLosJuego.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\TodosLosJuego.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\TodosLosJuego.cs",
-              "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\TodosLosJuego.cs",
+              "ToolTip": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\TodosLosJuego.cs",
               "RelativeToolTip": "proyectoBlizzarp\\TodosLosJuego.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAIA8wDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAnwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T12:47:02.01Z",
               "EditorCaption": ""
@@ -189,9 +176,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "TodosLosJuego.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\TodosLosJuego.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\TodosLosJuego.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\TodosLosJuego.cs",
-              "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\TodosLosJuego.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\TodosLosJuego.cs [Dise\u00F1o]",
               "RelativeToolTip": "proyectoBlizzarp\\TodosLosJuego.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T12:33:10.886Z",
@@ -201,47 +188,44 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "FormDescripcionCompra.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormDescripcionCompra.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\FormDescripcionCompra.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\FormDescripcionCompra.cs",
-              "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormDescripcionCompra.cs",
+              "ToolTip": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\FormDescripcionCompra.cs",
               "RelativeToolTip": "proyectoBlizzarp\\FormDescripcionCompra.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T11:19:26.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T11:19:26.58Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "FormDescripcionCompra.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormDescripcionCompra.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\FormDescripcionCompra.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\FormDescripcionCompra.cs",
               "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormDescripcionCompra.cs [Dise\u00F1o]",
-              "RelativeToolTip": "proyectoBlizzarp\\FormDescripcionCompra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormDescripcionCompra.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T07:53:58.235Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-02-25T07:53:58.235Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "GestionCatalogo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\GestionCatalogo.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\GestionCatalogo.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\GestionCatalogo.cs",
               "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\GestionCatalogo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "proyectoBlizzarp\\GestionCatalogo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\GestionCatalogo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T08:17:31.421Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-02-25T08:17:31.421Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Form2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\Form2.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\Form2.cs",
               "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\Form2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "proyectoBlizzarp\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\Form2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T17:30:45.677Z"
             },
@@ -249,10 +233,10 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Form3.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\Form3.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\Form3.cs",
               "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\Form3.cs [Dise\u00F1o]",
-              "RelativeToolTip": "proyectoBlizzarp\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\Form3.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T13:24:41.741Z"
             },
@@ -260,10 +244,10 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "FormAdmi.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormAdmi.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\FormAdmi.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\FormAdmi.cs",
               "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormAdmi.cs [Dise\u00F1o]",
-              "RelativeToolTip": "proyectoBlizzarp\\FormAdmi.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormAdmi.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T18:39:53.511Z"
             },
@@ -271,22 +255,21 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "GestionCatalogo.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\GestionCatalogo.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\GestionCatalogo.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\GestionCatalogo.cs",
-              "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\GestionCatalogo.cs",
+              "ToolTip": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\GestionCatalogo.cs",
               "RelativeToolTip": "proyectoBlizzarp\\GestionCatalogo.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwE0AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T14:00:54.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T14:00:54.97Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\Form2.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\Form2.cs",
-              "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\Form2.cs",
+              "ToolTip": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\Form2.cs",
               "RelativeToolTip": "proyectoBlizzarp\\Form2.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAkwHYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -296,9 +279,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "FormAdmi.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormAdmi.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\FormAdmi.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\FormAdmi.cs",
-              "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\FormAdmi.cs",
+              "ToolTip": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\FormAdmi.cs",
               "RelativeToolTip": "proyectoBlizzarp\\FormAdmi.cs",
               "ViewState": "AgIAAMwAAAAAAAAAAAAkwAsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -308,13 +291,32 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\Form3.cs",
               "RelativeDocumentMoniker": "proyectoBlizzarp\\Form3.cs",
-              "ToolTip": "C:\\Users\\GAMING\\OneDrive\\Documentos\\2-DAM\\Desarrollo de Interface\\proyectoBlizzarp\\proyectoBlizzarp\\proyectoBlizzarp\\Form3.cs",
+              "ToolTip": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\Form3.cs",
               "RelativeToolTip": "proyectoBlizzarp\\Form3.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAjwEEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T09:56:33.998Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\Form1.cs",
+              "RelativeDocumentMoniker": "proyectoBlizzarp\\Form1.cs",
+              "ToolTip": "C:\\Users\\GAMING\\source\\repos\\proyectoBlizzarp\\proyectoBlizzarp\\Form1.cs",
+              "RelativeToolTip": "proyectoBlizzarp\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:30:23.719Z",
+              "EditorCaption": ""
             }
           ]
         }
