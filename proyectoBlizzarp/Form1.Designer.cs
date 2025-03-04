@@ -83,7 +83,7 @@
             this.buttonTodosLosJuegos.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonTodosLosJuegos.Font = new System.Drawing.Font("Agency FB", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonTodosLosJuegos.ForeColor = System.Drawing.Color.Transparent;
-            this.buttonTodosLosJuegos.Location = new System.Drawing.Point(970, 937);
+            this.buttonTodosLosJuegos.Location = new System.Drawing.Point(964, 891);
             this.buttonTodosLosJuegos.Margin = new System.Windows.Forms.Padding(4);
             this.buttonTodosLosJuegos.Name = "buttonTodosLosJuegos";
             this.buttonTodosLosJuegos.Size = new System.Drawing.Size(297, 48);
@@ -95,7 +95,7 @@
             // flowLayoutPanelCatalago
             // 
             this.flowLayoutPanelCatalago.BackColor = System.Drawing.Color.Transparent;
-            this.flowLayoutPanelCatalago.Location = new System.Drawing.Point(321, 362);
+            this.flowLayoutPanelCatalago.Location = new System.Drawing.Point(312, 305);
             this.flowLayoutPanelCatalago.Margin = new System.Windows.Forms.Padding(4);
             this.flowLayoutPanelCatalago.Name = "flowLayoutPanelCatalago";
             this.flowLayoutPanelCatalago.Size = new System.Drawing.Size(1503, 567);
@@ -108,7 +108,7 @@
             this.TituloJuego.BackColor = System.Drawing.Color.Transparent;
             this.TituloJuego.Font = new System.Drawing.Font("Agency FB", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TituloJuego.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.TituloJuego.Location = new System.Drawing.Point(880, 305);
+            this.TituloJuego.Location = new System.Drawing.Point(880, 238);
             this.TituloJuego.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.TituloJuego.Name = "TituloJuego";
             this.TituloJuego.Size = new System.Drawing.Size(305, 53);
@@ -121,7 +121,7 @@
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.BackgroundImage = global::proyectoBlizzarp.Properties.Resources.copo;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(771, 15);
+            this.pictureBox1.Location = new System.Drawing.Point(748, -52);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(537, 283);

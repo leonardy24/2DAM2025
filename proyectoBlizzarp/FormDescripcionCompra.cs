@@ -32,13 +32,13 @@ namespace proyectoBlizzarp
             this.Descripcion = descripcion;
             this.Precio = precio;
             this.URL = url;
-            //this.conexionEmpleados = conexionEmpleados; 
+            
             this.usuario = usuario;
 
 
            
             labelTitulo.Text = Titulo;
-            labelPrecio.Text = Precio.ToString();
+            labelPrecio.Text = "€"+Precio.ToString();
             labelDecrip.Text = Descripcion;
             pictureBoxJuego.Load(URL);
             pictureBoxJuego.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -58,6 +58,7 @@ namespace proyectoBlizzarp
 
         }
 
+        //LANZA EL FORMULARIO DE COMPRA
         private void buttonComprar_Click(object sender, EventArgs e)
         {
 
@@ -66,6 +67,11 @@ namespace proyectoBlizzarp
             compra.Show();
 
             
+
+        }
+
+        private void labelPrecio_Click(object sender, EventArgs e)
+        {
 
         }
     }

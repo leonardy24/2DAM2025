@@ -20,7 +20,7 @@ namespace proyectoBlizzarp
         public TodosLosJuego(MySqlConnection conn, string usuario )
         {
             InitializeComponent();
-           // this.conexionEmpleados = conexionEmpleados;
+           
             this.usuario = usuario;
             this.flowLayoutPanelTodosLosJuegos.AutoScroll = true;
 

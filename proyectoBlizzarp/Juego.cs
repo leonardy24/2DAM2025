@@ -19,7 +19,7 @@ namespace proyectoBlizzarp
         private double Precio {  get; set; }
         private string URL { get; set; }
 
-        //private MySqlConnection conexionEmpleados { get; set; }
+       
         private string usuario;
        
 
@@ -31,7 +31,7 @@ namespace proyectoBlizzarp
             this.Descripcion = descripcion;
             this.Precio = precio;
             this.URL = url;
-           // this.conexionEmpleados = conexionEmpleados;
+           
             this.usuario = usuario;
 
             this.Size = new Size(195, 450); // Tamaño del panel
@@ -65,15 +65,17 @@ namespace proyectoBlizzarp
 
             };
 
+            //creo el label para el precio
             Label precioLabel = new Label
             {
-                Text = Precio.ToString(),
+                Text = "€"+Precio.ToString(),
                 Font = new Font("Agency FB", 20, FontStyle.Bold),  // Fuente personalizada
                 ForeColor = Color.White,
                 AutoSize = true,                    // Ajustar el tamaño del label al contenido
                 TextAlign = ContentAlignment.MiddleCenter, // Centrar el texto en el Label
             };
 
+            //creo label para la descpccion
             Label descripLabel = new Label
             {
                 Text = Descripcion,
@@ -121,8 +123,7 @@ namespace proyectoBlizzarp
         }
         private void Panel_Click(object sender, EventArgs e)
         {
-
-            
+           
 
             FormDescripcionCompra compra = new FormDescripcionCompra(this.Id,this.Titulo, this.Descripcion,this.Precio,this.URL,this.usuario);
             compra.Show();

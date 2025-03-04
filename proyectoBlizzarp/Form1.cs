@@ -15,8 +15,17 @@ namespace proyectoBlizzarp
 
     public partial class Form1 : Form
     {
+
+        /*
+         *CONEXCION CON LA BASE DE DATOS 
+         * 
+         */
         MySqlConnection conn;
+
+        //LISTA DE JUEGOS DONDE GUARDO LA CONSULTA A LA BASE DE DATOS
         List<Juego> panelListJuegos = new List<Juego>();
+
+        //NOMBRE DE USUARARIO
         String usuario;
 
         public Form1(String usuario)
@@ -33,6 +42,7 @@ namespace proyectoBlizzarp
             conn = new MySqlConnection(connString);
             try
             {
+                //ABRO LA CONEXION, Y CREO LA CONSULTA
                 conn.Open();
 
                 MySqlCommand cmd = new MySqlCommand("SELECT * from juegosdestacados", conn);
@@ -43,6 +53,7 @@ namespace proyectoBlizzarp
 
                   Juego juego = new Juego(Convert.ToInt32(reader["Id_JuegoDestacados"].ToString()), reader["titulo"].ToString(), reader["descripcion"].ToString(),Convert.ToDouble(reader["precio"].ToString()) , reader["url_img"].ToString(), usuario);
 
+                    //AGREGO AL FLOWLAYOUT EL JUEGO
                     flowLayoutPanelCatalago.Controls.Add(juego);
 
                 }
@@ -116,6 +127,7 @@ namespace proyectoBlizzarp
 
         }
 
+        //ME LANZA EL FORMULARIO DE MOSTRAR TODOS LOS JUEGOS
         private void button4_Click(object sender, EventArgs e)
         {
 
@@ -134,12 +146,11 @@ namespace proyectoBlizzarp
 
         }
 
+        /*
+         * ME LANZA EL FORMULARIO DE MIS JUEGOS
+         * */
         private void button3_Click(object sender, EventArgs e)
         {
-
-            //DEBO PASAR EL USUARIO
-            //PARA LUEGO HACER EL SELECT
-
             FormMisJuegos misJuegos = new FormMisJuegos(usuario);
 
             misJuegos.Show();

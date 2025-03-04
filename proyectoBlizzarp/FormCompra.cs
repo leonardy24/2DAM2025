@@ -37,11 +37,11 @@ namespace proyectoBlizzarp
             this.Precio = precio;
             this.URL = url;
             this.usuario = usuario;
-           // this.conexionEmpleados = conexionEmpleados;
-
+           
+            //CREO LA CONEXCION A LA BASE DE DATOS
            this.conexionEmpleados = new MySqlConnection("Server=localhost;Database=control_empleados;User ID=root;Password=31416;Pooling=true;");
 
-
+            //CREO EL PANEL JUEGO Y LO VUELVO A MOSTRAR
             Juego juegos = new Juego(this.Id, this.Titulo, this.Descripcion, this.Precio, this.URL, this.usuario);
 
             flowLayoutPanelJuego.Controls.Add(juegos);
@@ -68,8 +68,11 @@ namespace proyectoBlizzarp
 
         }
 
+        //AGREGA UNA NUEVA COMPRA
         private void buttonPagar_Click(object sender, EventArgs e)
         {
+
+            //SI ALGUNO DE LOS CAMPOS ESTAN VACIOS ME LANZA UN MENSAJE
             if (string.IsNullOrWhiteSpace(textBoxNombre.Text) && string.IsNullOrWhiteSpace(textBoxNumTarjeta.Text) && string.IsNullOrWhiteSpace(textBoxNumTarjeta.Text) && string.IsNullOrWhiteSpace(textBoxCVV.Text))
             {
 
@@ -80,6 +83,7 @@ namespace proyectoBlizzarp
 
             try
             {
+                //CREO LA CONEXCION A LA BASDE DE DATOS, Y REALIZO LA INSERCION 
                 conexionEmpleados.Open();
 
                 string queryAgg = "INSERT INTO misjuegos (Titulo,descripcion,precio,url_img,id_Juego,usuario) VALUES (@titulo,@descripcion,@precio,@url_img,@id_Juego,@usuario)";
@@ -110,6 +114,7 @@ namespace proyectoBlizzarp
 
         }
 
+        // PROGRESO DEL PROGRESBAR
         private void Timer_Tick(object sender, EventArgs e)
         {
             if (progressBar.Value < progressBar.Maximum)
@@ -119,6 +124,7 @@ namespace proyectoBlizzarp
             }
             else
             {
+                
                 timer.Stop();
                 this.labelCompra.Text = "Pago completado";
             }

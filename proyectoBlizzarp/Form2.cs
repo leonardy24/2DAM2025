@@ -16,6 +16,7 @@ namespace proyectoBlizzarp
     public partial class Form2 : Form
     {
 
+        //CONEXION A LA BASE DE DATOS
         MySqlConnection conexionEmpleado;
 
 
@@ -51,6 +52,13 @@ namespace proyectoBlizzarp
             
 
         }
+
+        /*
+            REALIZO LA CONSULTA A LA BASE DE DATOS PARA SABER SI EL USAURIO EXISTE.
+            SI EXISTE, ME LANZA LA VENTANA PRINCIPAL.
+            SI NO EXISTE, ME LANZA UN MENSAJE DE ERROR.
+            SI LOS CAMPOS ESTAN VACIOS ME LANZA UN MENSAJE DE ERROR
+         */
 
         private void buttonLogin_Click(object sender, EventArgs e)
         {
@@ -131,14 +139,20 @@ namespace proyectoBlizzarp
 
         }
 
+        /*
+         *CIERRA EL PROGRAMA 
+         */
         private void buttonSalir_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
+        /*
+         * LLAMO AL FORMULARIO PARA CREAR UN NUEVO USAURIO
+         * */
         private void button1_Click(object sender, EventArgs e)
         {
-            //AL HACER CLICK LLAMO AL OTRO FORMULARIO
+            
 
             Form3 crearUsu = new Form3(conexionEmpleado);
             crearUsu.Show();

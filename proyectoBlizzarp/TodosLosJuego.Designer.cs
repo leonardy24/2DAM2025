@@ -42,17 +42,17 @@
             this.panelPrincipal.Controls.Add(this.flowLayoutPanelTodosLosJuegos);
             this.panelPrincipal.Controls.Add(this.labelYadisponibles);
             this.panelPrincipal.Location = new System.Drawing.Point(0, 338);
-            this.panelPrincipal.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelPrincipal.Margin = new System.Windows.Forms.Padding(4);
             this.panelPrincipal.Name = "panelPrincipal";
-            this.panelPrincipal.Size = new System.Drawing.Size(1857, 713);
+            this.panelPrincipal.Size = new System.Drawing.Size(2050, 800);
             this.panelPrincipal.TabIndex = 1;
             this.panelPrincipal.Paint += new System.Windows.Forms.PaintEventHandler(this.panelPrincipal_Paint);
             // 
             // flowLayoutPanelTodosLosJuegos
             // 
             this.flowLayoutPanelTodosLosJuegos.BackColor = System.Drawing.Color.Transparent;
-            this.flowLayoutPanelTodosLosJuegos.Location = new System.Drawing.Point(16, 114);
-            this.flowLayoutPanelTodosLosJuegos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.flowLayoutPanelTodosLosJuegos.Location = new System.Drawing.Point(69, 112);
+            this.flowLayoutPanelTodosLosJuegos.Margin = new System.Windows.Forms.Padding(4);
             this.flowLayoutPanelTodosLosJuegos.Name = "flowLayoutPanelTodosLosJuegos";
             this.flowLayoutPanelTodosLosJuegos.Size = new System.Drawing.Size(1816, 454);
             this.flowLayoutPanelTodosLosJuegos.TabIndex = 1;
@@ -76,9 +76,9 @@
             this.panelPresentacion.BackgroundImage = global::proyectoBlizzarp.Properties.Resources.imagenPresentacion;
             this.panelPresentacion.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panelPresentacion.Location = new System.Drawing.Point(0, 1);
-            this.panelPresentacion.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelPresentacion.Margin = new System.Windows.Forms.Padding(4);
             this.panelPresentacion.Name = "panelPresentacion";
-            this.panelPresentacion.Size = new System.Drawing.Size(1857, 341);
+            this.panelPresentacion.Size = new System.Drawing.Size(2050, 341);
             this.panelPresentacion.TabIndex = 0;
             this.panelPresentacion.Paint += new System.Windows.Forms.PaintEventHandler(this.panelPresentacion_Paint);
             // 
@@ -86,10 +86,10 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1859, 933);
+            this.ClientSize = new System.Drawing.Size(1924, 933);
             this.Controls.Add(this.panelPrincipal);
             this.Controls.Add(this.panelPresentacion);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "TodosLosJuego";
             this.Text = "TodosLosJuego";
             this.panelPrincipal.ResumeLayout(false);

@@ -42,7 +42,7 @@
             // 
             this.buttonComprar.Font = new System.Drawing.Font("Microsoft YaHei UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonComprar.Location = new System.Drawing.Point(759, 293);
-            this.buttonComprar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttonComprar.Margin = new System.Windows.Forms.Padding(4);
             this.buttonComprar.Name = "buttonComprar";
             this.buttonComprar.Size = new System.Drawing.Size(277, 42);
             this.buttonComprar.TabIndex = 0;
@@ -54,7 +54,7 @@
             // 
             this.buttonAggLista.Font = new System.Drawing.Font("Microsoft YaHei UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonAggLista.Location = new System.Drawing.Point(759, 379);
-            this.buttonAggLista.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttonAggLista.Margin = new System.Windows.Forms.Padding(4);
             this.buttonAggLista.Name = "buttonAggLista";
             this.buttonAggLista.Size = new System.Drawing.Size(277, 43);
             this.buttonAggLista.TabIndex = 1;
@@ -65,7 +65,7 @@
             // 
             this.pictureBoxJuego.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBoxJuego.Location = new System.Drawing.Point(48, 36);
-            this.pictureBoxJuego.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBoxJuego.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBoxJuego.Name = "pictureBoxJuego";
             this.pictureBoxJuego.Size = new System.Drawing.Size(609, 409);
             this.pictureBoxJuego.TabIndex = 2;
@@ -110,6 +110,7 @@
             this.labelPrecio.Size = new System.Drawing.Size(166, 36);
             this.labelPrecio.TabIndex = 5;
             this.labelPrecio.Text = "labelPrecio";
+            this.labelPrecio.Click += new System.EventHandler(this.labelPrecio_Click);
             // 
             // labelDecrip
             // 
@@ -138,7 +139,7 @@
             this.Controls.Add(this.pictureBoxJuego);
             this.Controls.Add(this.buttonAggLista);
             this.Controls.Add(this.buttonComprar);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormDescripcionCompra";
             this.Text = "FormCompra";
             this.Load += new System.EventHandler(this.FormCompra_Load);
